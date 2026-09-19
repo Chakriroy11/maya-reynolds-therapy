@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     },
   ],
   creator: "Dr. Maya Reynolds, PsyD",
-  metadataBase: new URL("https://example.com"),
+  metadataBase: new URL("https://maya-reynolds-therapy-mocha.vercel.app"),
   openGraph: {
     title:
       "Dr. Maya Reynolds, PsyD | Therapy for Anxiety, Trauma & Burnout in Santa Monica",
